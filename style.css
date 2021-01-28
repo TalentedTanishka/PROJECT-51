@@ -1,0 +1,287 @@
+
+.camel li
+{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.camel p
+{
+    font-size: 40px;
+    flex-wrap: wrap;
+    font-weight: bold;
+   
+}
+
+.camel img
+{
+    display: flex;
+    border: 10px;
+    border-radius: 90px;
+    border-color: black;
+    border-style: double;
+    margin-top: 50px;
+}
+
+.camel
+{
+    padding-top: 300px;
+}
+
+.pigeon li
+{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.pigeon p
+{
+    font-size: 40px;
+    flex-wrap: wrap;
+    font-weight: bold;
+}
+
+.pigeon img
+{
+    border: 10px;
+    border-radius: 90px;
+    border-color: black;
+    border-style: double;
+}
+.pigeon
+{
+   margin-top: 20px;
+}
+
+.pigeon
+{
+    padding-top: 300px;
+}
+
+
+.teddy li
+{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.teddy p
+{
+    font-size: 40px;
+    flex-wrap: wrap;
+    font-weight: bold;
+}
+
+.teddy img
+{
+    border: 10px;
+    border-radius: 90px;
+    border-color: black;
+    border-style: double;
+}
+
+.teddy
+{
+    padding-top: 200px;
+}
+
+
+.chameleon li
+{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.chameleon p
+{
+    font-size: 40px;
+    flex-wrap: wrap;
+    font-weight: bold;
+}
+
+.chameleon img
+{
+    border: 10px;
+    border-radius: 90px;
+    border-color: black;
+    border-style: double;
+}
+
+.chameleon
+{
+    padding-top: 300px;
+}
+.cicada li
+{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.cicada p
+{
+    font-size: 40px;
+    flex-wrap: wrap;
+    font-weight: bold;
+}
+
+.cicada img
+{
+    border: 10px;
+    border-radius: 90px;
+    border-color: black;
+    border-style: double;
+}
+
+.cicada
+{
+    padding-top: 250px;
+    
+}
+
+
+.panda li
+{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.panda p
+{
+    font-size: 40px;
+    flex-wrap: wrap;
+    font-weight: bold;
+}
+.panda img
+{
+    border: 10px;
+    border-radius: 90px;
+    border-color: black;
+    border-style: double;
+}
+
+.panda
+{
+    padding-top: 200px;
+}
+
+
+body h1
+{
+    
+    text-align: center;
+    font-size: 200px;
+    
+}
+
+.introduction
+{
+    font-size: 90px;
+    font-weight: bold;
+} 
+
+.body
+{
+    background-image: url(https://thumbs.dreamstime.com/b/colorful-paper-origami-birds-landscape-scene-kids-art-geometric-figures-decorative-baby-toys-amazing-style-template-180871649.jpg);
+}
+.body1
+{
+    background-image: url(https://thumbs.dreamstime.com/b/autumn-origami-landscape-autumn-origami-landscape-clouds-sun-mushrooms-leaves-birds-trees-crafted-abstract-paper-concept-cut-179684252.jpg);
+}
+.menu
+{
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+}
+.menu a:link
+{
+    display: flex;
+    color: #000;
+    margin-top: 10px;
+    justify-content: space-around;
+}
+
+.menu a:visited
+{
+    display: flex;
+    color: #ff0000;
+    margin-top: 10px;
+    justify-content: space-around;
+}
+
+body
+{
+    background-image: url(https://thumbs.dreamstime.com/b/paper-origami-animals-landscape-application-background-cat-bird-fox-deer-clouds-trees-mountains-kids-template-cut-toy-vector-181034844.jpg);
+}
+.hi
+{
+    font-size: 190px;
+    font-weight: bold;
+   
+}
+.camel
+{
+position: relative;
+}
+
+.camel:hover img
+{
+    opacity: 0.3;
+    
+}
+
+.pigeon
+{
+position: relative;
+}
+
+.pigeon:hover img
+{
+    opacity: 0.3;
+    
+}
+
+
+.teddy
+{
+position: relative;
+}
+
+.teddy:hover img
+{
+    opacity: 0.3;
+    
+}
+
+.chameleon
+{
+position: relative;
+}
+
+.chameleon:hover img
+{
+    opacity: 0.3;
+    
+}
+
+.cicada
+{
+position: relative;
+}
+
+.cicada:hover img
+{
+    opacity: 0.3;
+    
+}
+
+.panda
+{
+position: relative;
+}
+
+.panda:hover img
+{
+    opacity: 0.3;
+    
+}
